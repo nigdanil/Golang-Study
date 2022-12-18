@@ -14,3 +14,10 @@ git remote add origin https://github.com/nigdanil/Golang-Study.git
 git branch -M main
 git push -u origin main
 ```
+## How push to project
+```bash
+git status
+git add .
+git commit -m "Text what you do!"
+git push -u origin main
+```
